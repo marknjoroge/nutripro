@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Virtual Eatery</string>
+    <string name="app_slogan">healthy at home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="food_name_label">Food name</string>
+    <string name="search_btn_txt">Search</string>
+    <string name="search_by_img_btn">Search using Image Instead?</string>
+    <string name="search_by_voice_btn">Search by Voice</string>
+    <string name="nutritional_info_title">Day\'s Nutritional Information</string>
+    <string name="slogan">Nutritional information services</string>
+
+    <string name="carbohydrates">Carbohydrates</string>
+    <string name="proteins">Proteins</string>
+    <string name="fats">Fats</string>
+    <string name="calories">Calories</string>
+
+    <string name="add_consumed_food">Add Consumed Food</string>
+    <string name="edit_consumed_foods">Edit Consumed Foods</string>
+    <string name="nutritional_information">Nutritional Information</string>
+    <string name="food">Food:</string>
+    <string name="per_100g">Per 250g Serving</string>
+    <string name="foo">foo</string>
+    <string name="add_to_consumed_food">Add To Consumed Foods</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="meal_taken">Meal Taken</string>
+    <string name="search_saved_photo">from gallery</string>
+    <string name="from_camera">from camera</string>
+
+    <string name="spoonacular_api_key">4f678b25cf7645ff85ab9692b1a4b2ad</string>
+</resources>
